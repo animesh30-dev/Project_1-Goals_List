@@ -1,7 +1,7 @@
 # Goals App
 
 <p align="center">
-<img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/1b915047-d46f-4c4e-b31e-ec3c7e2dad13" width="150">
+<img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/1b915047-d46f-4c4e-b31e-ec3c7e2dad13" width="100">
 </p>
 
  
@@ -12,12 +12,12 @@ This was my second app built using React Native and JavaScript with the help of 
     
 ## HOW TO RUN THIS APP:-
 <p align="left">
-    JUST DOWNLOAD THE REPO CODE AND OPEN IT UP IN Visual Studio Code
-  USE THESE COMMANDS
+  JUST DOWNLOAD THE REPO CODE AND OPEN IT UP IN Visual Studio Code
+  USE THESE COMMANDS:-
  ```
  npm install expo@latest
  npm start 
- ```
+
     <p>
      
 ## Here are some snapshots of the app
