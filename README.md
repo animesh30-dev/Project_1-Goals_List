@@ -17,8 +17,11 @@ This was my second app built using React Native and JavaScript with the help of 
  
 ```
 npm install expo@latest
+```
+```
 npm start
 ```
+
 <p>
      
 ## Here are some snapshots of the app
