@@ -5,7 +5,8 @@
 </p>
 
  
-## This was my second app built using React Native and JavaScript with the help of Expo. It served as a foundational project in my journey of React Native mobile app development, incorporating concepts such as multiple components, modal screens, and React hooks and functions.
+## About this project:
+This was my second app built using React Native and JavaScript with the help of Expo. It served as a foundational project in my journey of React Native mobile app development, incorporating concepts such as multiple components, modal screens, and React hooks and functions.
     
 
     
@@ -17,11 +18,11 @@
     <p>
      
 ## Here are some snapshots of the app
-<p align="center">
-  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/e29a7d40-c752-439e-bc0e-61e558ffd06b" width="200">
-  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/33842987-592c-4901-8d3b-19d75944bd36" width="200">
-  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/c9220175-f927-4ccc-9eb2-a76d1d393ab5" width="200">
+<p align="left"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/e29a7d40-c752-439e-bc0e-61e558ffd06b" width="200"> </p>
+<p align="center"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/33842987-592c-4901-8d3b-19d75944bd36" width="200"> </p>
+<p align="right">  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/c9220175-f927-4ccc-9eb2-a76d1d393ab5" width="200"> </p>
 </p>
+
 ## Just run the app!!!
 
 
