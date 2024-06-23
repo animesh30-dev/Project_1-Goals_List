@@ -25,13 +25,13 @@ npm start
 <p>
      
 ## Here are some snapshots of the app
-<p align="center"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/e29a7d40-c752-439e-bc0e-61e558ffd06b" width="200"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/33842987-592c-4901-8d3b-19d75944bd36" width="200">  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/c9220175-f927-4ccc-9eb2-a76d1d393ab5" width="100"> </p>
+<p align="center"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/e29a7d40-c752-439e-bc0e-61e558ffd06b" width="200"> <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/33842987-592c-4901-8d3b-19d75944bd36" width="200">  <img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/c9220175-f927-4ccc-9eb2-a76d1d393ab5" width="200"> </p>
 
 
 
 ## Just run the app!!!
 If you can't run the app because of some dependencies or the emulator taking too much time, you can watch this YouTube video to get an idea of the project and its features
-<a href="https://youtube.com/shorts/Vtbp56DsrgA?si=zZFTq2cBG8sKYoUo"><img alt="YouTube"  src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/80b129aa-990d-430d-9d88-56092d0a4ac2" width="200" height="42"/></a>
+<a href="https://youtube.com/shorts/Vtbp56DsrgA?si=zZFTq2cBG8sKYoUo"><img alt="YouTube"  src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/80b129aa-990d-430d-9d88-56092d0a4ac2" width="100" height="42"/></a>
 
 
 ## Also
