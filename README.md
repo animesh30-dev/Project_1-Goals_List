@@ -30,12 +30,12 @@ npm start
 
 
 ## Just run the app!!!
-In case you are not able to due to some dependencies or emulator taking too much time , you can feel free to watch this youtube video to get the idea of the project and it's feature.
-<a href="https://youtube.com/shorts/Vtbp56DsrgA?si=zZFTq2cBG8sKYoUo"><img alt="YouTube"  src="https://github.com/animesh30-dev/GuessGame/assets/146109979/18c1f2c0-9ea9-450d-8218-b4b1712d6a69" width="2" height="42"/></a>
+If you can't run the app because of some dependencies or the emulator taking too much time, you can watch this YouTube video to get an idea of the project and its features
+<a href="https://youtube.com/shorts/Vtbp56DsrgA?si=zZFTq2cBG8sKYoUo"><img alt="YouTube"  src="https://github.com/animesh30-dev/GuessGame/assets/146109979/18c1f2c0-9ea9-450d-8218-b4b1712d6a69" width="200" height="42"/></a>
 
 
 ## Also
 I will be adding some more codes in this repo and building this project for greater use in the future as I learn more tools and also will be trying to publish it.
 
 
-## Thank you for visiting 
+## Thank you for visiting 🔥🔥
